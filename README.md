@@ -81,7 +81,7 @@ Este projeto é de uso acadêmico. O uso dos dados e do código é permitido ape
 
 **Wallace Lima**  
 Engenharia de Dados | Ciência de Dados | Finanças | Compliance  
-[LinkedIn](https://www.linkedin.com/in/wallacelima17/) *(adicione seu link)*
+[LinkedIn](https://www.linkedin.com/in/wallacelima17/)
 
 ---
 
